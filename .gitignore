@@ -1,0 +1,12 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+vector_db/
+chroma_db/
+.vscode/
+
+# Private or permission-unverified source documents
+Data/
